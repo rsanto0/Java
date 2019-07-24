@@ -21,7 +21,7 @@ public class Carrinho {
 	private long id;
 
 	public Carrinho() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public Carrinho adiciona(Produto produto) {

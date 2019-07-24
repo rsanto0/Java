@@ -21,7 +21,7 @@ public class Carrinho {
 	private long id;
 
 	public Carrinho() {
-		
+		//NOvo carrinho
 	}
 	
 	public Carrinho adiciona(Produto produto) {
